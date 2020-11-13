@@ -3,8 +3,7 @@
 [![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/crios-ut/aste/master?filepath=aste_llcreader_example.ipynb)
 [![DOI](https://zenodo.org/badge/214038615.svg)](https://zenodo.org/badge/latestdoi/214038615)
 
-Nguyen, An T., Ocaña, V., Pillar, H., Bigdeli, A., Smith, T. A., & Heimbach, P. (2021). The Arctic Subpolar gyre sTate Estimate: a data-constrained and dynamically consistent ocean-sea ice estimate for 2002–2017. Submitted to Journal of Advances in Modeling Earth Systems.
-
+Nguyen, A. T., H. Pillar, V. Ocana, A. Bigdeli, T. A. Smith, and P. Heimbach, 2020: The Arctic Subpolar gyre sTate Estimate (ASTE): Description and assessment of a data-constrained, dynamically consistent ocean-sea ice estimate for 2002-2017. J. Adv. Model. Earth Syst., submitted. https://doi.org/10.1002/essoar.10504669.3
 
 ## Analyzing ASTE Output
 
